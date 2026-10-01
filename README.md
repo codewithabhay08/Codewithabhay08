@@ -122,3 +122,25 @@
 </a>
 
 </p>
+
+### 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/codewithabhay08">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://linkedin.com/in/abhay-patel-08may">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://instagram.com/decentabhaypatel">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://m.youtube.com/channel/UCRVrkIU_7bjVYZ-DrKd93cg">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+</p>
