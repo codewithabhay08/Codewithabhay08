@@ -41,8 +41,35 @@
 
 ### 📊 Data Science & Analytics
 
-**Python • NumPy • Pandas • Matplotlib • Seaborn • Statistics**
+<p align="left">
 
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/gnu/000000" width="45" height="45" alt="Statistics"/>
+</a>
+
+</p>
+
+**Python • NumPy • Pandas • Matplotlib • Seaborn • Statistics**
 ### 🗄️ Database
 
 <p>
@@ -51,34 +78,11 @@
 
 **MySQL • SQL • Database Management**
 
-### 📈 Business Intelligence
-
-<p align="left">
-
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" height="45" alt="Excel"/>
-</a>
-
-<a href="https://www.microsoft.com/microsoft-fabric" target="_blank">
-<img src="https://img.icons8.com/color/48/microsoft-fabric.png" width="45" height="45" alt="Microsoft Fabric"/>
-</a>
-
-<a href="https://powerquery.microsoft.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/microsoft-power-query.png" width="45" height="45" alt="Power Query"/>
-</a>
-
-</p>
-
-**Power BI • Excel • Microsoft Fabric • Power Query • Data Visualization • Dashboard Development**
 
 ### 🔧 Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ---
@@ -104,9 +108,6 @@
 </a>
 
 
-<a href="https://scipy.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="45" height="45" alt="SciPy"/>
-</a>
 
 <a href="https://www.tensorflow.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
